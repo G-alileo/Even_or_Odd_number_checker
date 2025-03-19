@@ -54,9 +54,9 @@ This Java program checks whether a given integer is even or odd. It prompts the 
 ## 📌 Example Outputs
 
 ### ✅ Valid Input
-
+- **2**
 ### ❌ Invalid Input
-
+- **abc**
 ## 🔧 Possible Improvements
 
 - **Loop Enhancement:** Allow the user to retry after an invalid input instead of exiting immediately.
